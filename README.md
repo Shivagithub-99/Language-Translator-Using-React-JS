@@ -29,13 +29,6 @@ The resources used for this procedure as as follows:
 - The API used is [My Memory](https://mymemory.translated.net/doc/spec.php)
 <br><br>
 
-## Demo
-If you want to visit the demo of this website, then you can go to the [Language Translator](https://rebrand.ly/LanguageTranslator_MABCORP) for checking the demo. Or simply click this link.
-<br><br>
-
-## Link to Video
-<br><br>
-
 ## GUI
 ![UI Image](demo.png)
 <br><br>
@@ -48,18 +41,7 @@ Following Technology Stacks are used for creating this app:
 - MyMemory API
 <br><br>
 
-## Advancement
-> No advancement required
-<br><br>
 
-## Developer
-Muhammad Abdullah Butt <br>
-abdullahbutt12292210@gmail.com <br>
-> [Instagram](https://www.instagram.com/abdullah.butt.22/)<br>
-> [FaceBook](https://www.facebook.com/profile.php?id=100076291614529)<br>
-> [YouTube](https://www.youtube.com/channel/UCnuOFQyMywg-KuoN-lmav1Q)<br>
-> [Portfolio](https://rebrand.ly/muhammadabdullahPortfolio)<br>
-> [Website](#)
 
 
 
